@@ -37,3 +37,6 @@ Class Diagrams, Inheritance, Abstract Classes and Interfaces where relevant to y
 * Jayshree Iyer
 * Archana Janarthanan
 
+## Activity
+* Brainstorm of [class structure](docs/brainstorm.md)
+
