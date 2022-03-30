@@ -43,3 +43,8 @@ Class Diagrams, Inheritance, Abstract Classes and Interfaces where relevant to y
 ### Mark's UML
 * Initial implementation of the brainstorm:
 ![Initial implementation of the brainstorm](docs/Mark/InitialImplementaion.png)
+* After rationalisation (removed ids, naming convention, data structures)
+![After rationalisation](docs/Mark/Rationalised.png)
+* Encapsulate and flesh out functions
+![Encapsulate](docs/Mark/Encapsulate.png)
+* 
