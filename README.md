@@ -40,3 +40,6 @@ Class Diagrams, Inheritance, Abstract Classes and Interfaces where relevant to y
 ## Activity
 * Brainstorm of [class structure](docs/brainstorm.md)
 
+### Mark's UML
+Initial implementation of the brainstorm:
+
