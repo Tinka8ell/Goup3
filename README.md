@@ -47,4 +47,6 @@ Class Diagrams, Inheritance, Abstract Classes and Interfaces where relevant to y
 ![After rationalisation](docs/Mark/Rationalised.png)
 * Encapsulate and flesh out functions
 ![Encapsulate](docs/Mark/Encapsulate.png)
-* 
+* After reorganising and moving bookings to be held by booking system 
+and making old Ticket class an abstract class TicketData. 
+![After reorganising](docs/Mark/Reorganise.png)
