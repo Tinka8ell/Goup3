@@ -50,3 +50,7 @@ Class Diagrams, Inheritance, Abstract Classes and Interfaces where relevant to y
 * After reorganising and moving bookings to be held by booking system 
 and making old Ticket class an abstract class TicketData. 
 ![After reorganising](docs/Mark/Reorganise.png)
+* After reviewing each of our UML diagrams, we decided to present this one.
+* But before we show it, there needed to be some spelling corrections, and during that process 
+I removed the "bookings" field from "User" and added a getter to access the list from the "Booking System".
+![Clarified UML](docs/Mark/Clarifications.png)
