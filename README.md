@@ -54,3 +54,6 @@ and making old Ticket class an abstract class TicketData.
 * But before we show it, there needed to be some spelling corrections, and during that process 
 I removed the "bookings" field from "User" and added a getter to access the list from the "Booking System".
 ![Clarified UML](docs/Mark/Clarifications.png)
+* After preparing for the presentation, we decided "User" was confusing with default actor of User, 
+so we renamed the class to "UserAccount".
+  ![Renamed User](docs/Mark/RenamedUser.png)
